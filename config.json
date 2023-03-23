@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/digitalsierra",
+      "prod_uri":"mysql://root:@localhost/digitalsierra",
+      "fb_url":"https://facebook.com/digitalsierra",
+      "tw_url":"https://twitter.com/digitalsierra",
+      "gh_url": "https://github.com/digitalsierra",
+      "blog_name": "Digital Sierra",
+      "tag_line": "Heaven for Tech Lover",
+      "gmail-user":"justaayan@gmail.com",
+      "gmail-password":"hutlclaiykarfzqy"
+    }
+  }
+  
